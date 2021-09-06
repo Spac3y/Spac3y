@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-- 🔭 I’m currently working on [AboutYourFit](https://github.com/AboutYourFit/AboutYourFit)
+- 🔭 I’m currently working on AboutYourFit
 
 - 🌱 I’m currently learning **Flutter**
 
