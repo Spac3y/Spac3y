@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **vladgavanescu@gmail.com**
+- 📫 How to reach me **vladgavanescualex@gmail.com**
 
 - ⚡ Fun fact **I started programing as a joke :)**
 
