@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.vladify.com](vladify.com)
+- 👨‍💻 All of my projects are available at [vladify.com](https://www.vladify.com)
 
 - 💬 Ask me about **Python**
 
