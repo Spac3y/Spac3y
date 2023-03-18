@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-- 🔭 I’m currently working on AboutYourFit
+- 🔭 I’m currently working on MyPortfolio
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Dev**
 
 - 👨‍💻 All of my projects are available at [vladify.com](https://www.vladify.com)
 
