@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h1 align="center">Hi 👋, I'm Spac3y</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
 - 🔭 I’m currently working on MyPortfolio
