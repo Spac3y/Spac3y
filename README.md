@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Web Dev**
 
-- 👨‍💻 All of my projects are available at [vladify.com](https://www.vladify.com)
-
 - 💬 Ask me about **Python**
-
-- 📫 How to reach me **vladgavanescualex@gmail.com**
 
 - ⚡ Fun fact **I started programing as a joke :)**
 
