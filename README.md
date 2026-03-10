@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Spac3y</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
 - 🔭 I’m currently working on MyPortfolio
 
 - 🌱 I’m currently learning **Web Dev**
