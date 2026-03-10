@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spac3y</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-![](https://komarev.com/ghpvc/?username='spac3y')
+![](https://komarev.com/ghpvc/?username=spac3y)
 
 - 🔭 I’m currently working on MyPortfolio
 
